@@ -1,14 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
 var myPromise = (txt, delay) => new Promise(function (resolve, reject) {
   setTimeout(function () {
     const err = false;
